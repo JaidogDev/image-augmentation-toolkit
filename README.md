@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="Cat_Figure_1.png">
+  <br>
+  <span style="font-family: Arial; font-size: 14px; color: gray;">
+    Output from this toolkit
+  </span>
+</p>
+
 
 # Image Augmentation Toolkit
 
