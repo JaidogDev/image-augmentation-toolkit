@@ -1,3 +1,4 @@
+
 # Image Augmentation Toolkit
 
 A comprehensive Python library implementing 18 image augmentation techniques for deep learning, computer vision, and data preprocessing pipelines.
@@ -78,6 +79,8 @@ jittered = aug_color_jitter(img)
 Run the main script to visualize all 18 techniques:
 
 ```bash
+python -m venv venv
+venv\Scripts\activate
 python augmentation.py
 ```
 
